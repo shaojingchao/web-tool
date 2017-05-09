@@ -1,0 +1,26 @@
+{
+  "name": "create-qrcode",
+  "authors": [
+    "shaojingchao <1247537710@qq.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "qrcode"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "artTemplate": "^4.1.0",
+    "jquery-qrcode": "jquery.qrcode#^0.14.0",
+    "art-template": "aui/art-template#^4.1.0"
+  }
+}

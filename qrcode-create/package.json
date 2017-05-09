@@ -1,0 +1,19 @@
+{
+  "name": "qrcode-create",
+  "version": "1.0.0",
+  "description": "批量创建二维码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shaojingchao/web-tool.git"
+  },
+  "author": "shaojingchao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaojingchao/web-tool/issues"
+  },
+  "homepage": "https://github.com/shaojingchao/web-tool#readme"
+}
